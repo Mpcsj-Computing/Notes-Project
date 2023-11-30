@@ -27,7 +27,7 @@
 
 ## Repository Structure
 
-- [notes_backend_project/](backend) - Backend codebase
+- [backend/](notes_backend_project) - Backend codebase
 
 ## Requirements (Backend)
 
