@@ -34,13 +34,8 @@
 | Software | Version |
 | -------- | ------- |
 | AWS CLI  | 2       |
+| NodeJS   | >=18    |
 
 For the backend side, it will be also required:
 
 - An AWS Account
-
-## Requirements (Frontend)
-
-| Software | Version |
-| -------- | ------- |
-| NodeJS   | >=18    |
